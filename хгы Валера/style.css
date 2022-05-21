@@ -1,0 +1,10 @@
+img {
+    height: 40px;
+    width: 40px;
+}
+
+nav {
+    display: flex;
+    justify-content: flex-end;
+     background-image: linear-gradient(to bottom, lightblue, blue);
+}
